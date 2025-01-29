@@ -12,5 +12,4 @@ GitHub commit activity
 
 ### :ZAP:Actividad reciente
 <!--START_SECTION.activity-->
-
 <!--End_SECTION.activity-->
