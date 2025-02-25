@@ -1,5 +1,5 @@
 ## Hi I'AM 👋
-🧑‍💻 About Me 📍 Location: MEDELLIN, Colombia 📧 Email: jn.arias@uniandes.edu.co 🎓 Studies: Sagittarius⚛️ 🏫 University: Cesde-medellin 📚🇨🇴 I'am a business administration student passionate about Data Analysis, Machine Learning and Backend Development. I enjoy solving problems with technology and combining mathematics, science and programming to create impactful solutions.
+🧑‍💻 About Me 📍 Location: MEDELLIN, Colombia 📧 Email:  🎓 Studies: Sagittarius⚛️ 🏫 University: Cesde-medellin 📚🇨🇴 I'am a business administration student passionate about Data Analysis, Machine Learning and Backend Development. I enjoy solving problems with technology and combining mathematics, science and programming to create impactful solutions.
 
 🖥️ Languages Python SQL HTML5 CSS3 Java
 
